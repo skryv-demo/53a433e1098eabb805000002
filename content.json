@@ -1,1 +1,42 @@
-{}
+{
+    "patientgegevens": {
+        "geslacht": {
+            "selectedChoice": "v"
+        },
+        "datum_van_de_eerste_insulinetoediening": "05/01/11",
+        "patient_niss": 78867306,
+        "naam": "van der Toorn",
+        "voornaam": "Mavis",
+        "geboortedatum": "05/26/2006",
+        "__comma_dummy": null
+    },
+    "datacollectie": {
+        "algemeen": {
+            "datum_van_de_meest_recente_consultatie": "01/04/13"
+        },
+        "metingen": {
+            "lengte": {
+                "datum_van_bepaling": "01/04/13",
+                "lengte_cm": 167,
+                "__comma_dummy": null
+            },
+            "gewicht": {
+                "datum_van_bepaling": "01/04/13",
+                "gewicht_kg": "68",
+                "__comma_dummy": null
+            },
+            "systolische_bloeddruk": {
+                "datum_van_bepaling": "01/04/13",
+                "systolische_bloeddruk_mmhg": 114,
+                "__comma_dummy": null
+            },
+            "diastolische_bloeddruk": {
+                "datum_van_bepaling": "01/04/13",
+                "diastolische_bloeddruk_mmhg": 64,
+                "__comma_dummy": null
+            },
+            "insulinedosis_iedag": "24",
+            "__comma_dummy": null
+        }
+    }
+}
